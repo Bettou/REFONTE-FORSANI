@@ -1,0 +1,272 @@
+.entete{
+	width: 100%;
+	height: 100px;
+	background-color: white;
+	display: flex;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+ul {
+	float: right;
+	list-style-type: none;
+	
+}
+li{
+	display: inline;
+	padding: 60px;
+}
+a{
+	text-decoration: none;
+	color: red;
+}
+a:hover{
+	color: blue;
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	margin-left: 32px;
+}
+#active{
+	color: blue;
+
+}
+.backgroun{
+	background-image: url("ressource/infirmiere.jpg");
+	background-position: center;
+	width: 90%;
+	height: 400px;
+	background-size: cover;
+	margin: auto;
+	margin-top: 15px;
+	opacity: 0.8;
+}
+.rouge{
+	background-image: url("ressource/rouge.png");
+	width: 90%;
+	height: 40px;
+	background-size: cover;
+	margin: auto;
+	
+}
+h2,h1{
+	text-align: center;
+	color: red;
+}
+#paragraphe1{
+	text-align: justify;
+	color:red;
+}
+.bloc{
+	width: 300px;
+	height: 300px;
+	margin-left: 400px;
+}
+button{
+	background-color: red;
+	color: white;
+	width: 145px;
+	height: 40px;
+}
+.button{
+	background-color: red;
+	color: white;
+	width: 100px;
+	height: 30px;
+	border: solid 1px white;
+}
+#button{
+	background-color: red;
+	color: white;
+	width: 145px;
+	height: 40px;
+	margin-top:25px;
+	margin-left: 300px;
+
+
+}
+.block2{
+width: 90%;
+display: flex;
+margin: auto;
+}
+#paragraphe2{
+	border: solid 1px;
+	text-align: justify;
+}
+.rectagle{
+	margin: 3px;
+}
+h4{
+	color: #2F83E5;
+}
+.blocK3{
+width: 90%;
+display: flex;
+margin: auto;
+}
+.blocK4{
+width: 90%;
+display: flex;
+margin: auto;
+border: solid 1px;
+margin-top:30px;
+background-color: #2F83E5; 
+
+}
+
+
+#image-gauche{
+	width: 550px;
+	height: 300px;
+	margin: 50px
+}
+.gauche,.droit{
+	border: solid 1px;
+	margin: 2px;
+
+}
+#h2,#p{
+	color: white;
+}
+
+#button{
+	background-color: #2F83E5; 
+	border: solid 1px white;
+	margin-left: 80px;
+}
+.block5{
+	background-image: url("ressource/reunion2.jpg");
+	background-size: cover;
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top:30px;
+
+}
+.formulaire{
+	width: 70%;
+	margin: auto;
+	height: 400px;
+	border: solid 2px black;
+	background-color: white;
+
+}
+#input{
+	width: 611px;
+	height: 30px;
+	margin: 3px;
+}
+.icon{
+	width: 100%;
+	border: solid 1px black;
+
+}
+#envoyer{
+	background-color: red;
+	color: white;
+	width: 145px;
+	height: 40px;
+	border: solid 1px white;
+	margin-left: 450px;
+
+}
+#forme{
+	margin-left: 85px;
+	margin-bottom: 3px
+}
+#icon{
+display: inline;
+padding: 20px;
+margin-right: 20px
+}
+#ico{
+display: inline;
+padding: 20px;
+}
+.icon i{
+	margin:15px;
+	color: red;
+}
+.pied{
+	background-color: red;
+	width: 100%;
+	height: 100px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	margin-top: 80px;
+}
+#Copyright{
+	text-align: center;
+	color: white;
+	padding: 40px;
+}
+.float{
+	float: left;
+}
+
+
+
+.section1{
+	width: 90%;
+	height: 250px;
+	background-color: #2E2BD6;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+.section2{
+	display: flex;
+	width: 90%;
+	margin: auto;
+}
+.sect{
+	margin: 80px;
+	
+	padding: 5px;
+}
+#sect{
+	border: solid 2px red;
+}
+.roug{
+	width: 90%;
+	height: 150px;
+	background-color: red;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 5px;
+
+}
+.segment{
+	display: flex;
+	width: 90%;
+	margin: auto;
+}
+.text{
+	width: 90%;
+	margin: auto;
+	text-align: justify;
+
+}
+.enfant{
+	width:565px;
+	height:300px;
+	margin:5px;
+}
+hr{
+	width: 90%;
+	margin: auto;
+	border: solid 2px red;
+}
+h3{
+	text-align: center;
+	color:white;
+	padding-top: 70px;
+}
+.local{
+	background-image: url("ressource/local.jpg");
+	background-size: cover;
+	background-position: center;
+	width: 90%;
+	margin: auto;
+	height: 500px;
+}
